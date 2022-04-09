@@ -1,5 +1,5 @@
 {
-  "name": "yuva-wordle",
+  "name": "wordy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
